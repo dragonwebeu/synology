@@ -17,7 +17,8 @@ And then execute:
 
 ## Usage
 
-Have some other Synology Service exposed define endpoints in config. 
+Have some other Synology Service exposed, define endpoints in config. 
+PS! Copy official ones from here lib/synology/client.rb `API_ENDPOINTS` 
 ```
 Synology.configure do |config|
  
